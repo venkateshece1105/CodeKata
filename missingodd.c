@@ -8,7 +8,7 @@ int main()
  {
  rem = i % 2;
  if(rem != 0)
- printf("\n  %d",i);
+ printf("  %d",i);
  }
  return 0;
  }
