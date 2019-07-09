@@ -5,7 +5,7 @@ int main()
  scanf("%d",&a);
  scanf("%d",&b);
  printf("%d %d",a,b); 
- for(i=a; i<b;i++)
+ for(i=a+1; i<b;i++)
  {
  rem = i % 2;
  if(rem == 0)
