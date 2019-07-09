@@ -2,19 +2,18 @@
 void main()
 {
 int n;
-printf("enter the number");
 scanf("%d",&n);
 if(n>0)
 {
-printf("%d is positive",n);
+printf("positive");
 }
 else if(n<0)
 {
-printf(" %d negative",n);
+printf("negative");
 }
 else
 {
-printf(" %d neither positive or negative",n);
+printf("neither positive or negative");
 }
 
 }
