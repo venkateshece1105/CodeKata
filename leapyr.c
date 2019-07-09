@@ -4,8 +4,8 @@
      int n;
      scanf("%d",&n);
      if(n%4==0)
-     printf("YES");
+     printf("yes");
      else
-     printf("NO);
+     printf("no");
      return 0;
 }
