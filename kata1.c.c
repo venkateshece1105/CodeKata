@@ -15,5 +15,5 @@ else
 {
 printf("neither positive or negative");
 }
-
+return 0;
 }
