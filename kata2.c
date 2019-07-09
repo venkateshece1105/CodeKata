@@ -4,9 +4,9 @@
   int n;
    scanf("%d",&n);
    if(n%2==0)
-  printf("even number",n);
+  printf("even",n);
    else
-  printf("odd number",n);
+  printf("odd",n);
   retunr 0;
 }
 
