@@ -7,6 +7,6 @@
   printf("even number",n);
    else
   printf("odd number",n);
-  retunr 0
+  retunr 0;
 }
 
