@@ -13,7 +13,7 @@ printf("negative");
 }
 else
 {
-printf("neither positive or negative");
+printf("zero");
 }
 return 0;
 }
