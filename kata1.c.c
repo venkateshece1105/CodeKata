@@ -1,18 +1,20 @@
-#include<studio.h>
+#include<stdio.h>
 void main()
 {
 int n;
+printf("enter the number");
 scanf("%d",&n);
-Printf("enter the number",n);
 if(n>0)
 {
-print("%d is positive",n);
+printf("%d is positive",n);
 }
 else if(n>0)
 {
-print(" %negative",n);
+printf(" %d negative",n);
 }
 else
 {
-print("neither positive or negative",n);
+printf(" %d neither positive or negative",n);
+}
+
 }
