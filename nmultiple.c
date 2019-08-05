@@ -6,6 +6,6 @@ void main()
         scanf("%ld",&n);
         for(i=1;i<=5;i++)
         {
-            printf(" \n %ld",n*i);
+            printf("  %ld",n*i);
         }
 }
