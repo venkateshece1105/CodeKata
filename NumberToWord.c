@@ -4,7 +4,7 @@ int main()
   int n;
   scanf("%d",&n);
   if(n==1)
-  printf("One");
+  printf("one");
   else if(n==2)
   printf("Two");
   else if(n==3)
