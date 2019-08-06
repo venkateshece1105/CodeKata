@@ -21,7 +21,7 @@ int main()
   
      count++;
  
-       printf("\n %s",a);
+       printf("\n%s",a);
  
   }
    
